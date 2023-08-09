@@ -19,7 +19,7 @@
 
 ## About me:
 
-👋 Howdy! I'm Trey, a junior front-end developer with a unique background in tribal casino surveillance. My journey has taken me from ensuring the security of casinos to crafting digital experiences that merge my love for accessible and empathetic design.
+👋 Howdy! I'm Trey, a front-end developer with a unique background in tribal casino surveillance. My journey has taken me from ensuring the security of casinos to crafting digital experiences that merge my love for accessible and empathetic design.
 
 🔍 My keen eye for detail, honed through years of surveillance, now finds expression in designing practical applications that seamlessly integrate into everyday life. I'm all about that sweet spot where creativity meets usability.
 
