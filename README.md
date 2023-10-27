@@ -3,8 +3,7 @@
 <h1 align='center'>Hello!<img width="30em" height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 </h1>
  
-
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/tdmburr/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=tdmburr&show_icons=true&theme=dark&hide_border=true"/>
   </a>
@@ -15,7 +14,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tdmburr&style=flat-square&color=3CD218" alt="Profile view counter"/>
-</div> -->
+</div>
 
 ## About me:
 
